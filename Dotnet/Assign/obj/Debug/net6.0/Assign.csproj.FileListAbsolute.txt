@@ -1,0 +1,15 @@
+C:\Users\mounika.ruppa\OneDrive - techigai.io\Desktop\Dotnet\Assign\bin\Debug\net6.0\Assign.exe
+C:\Users\mounika.ruppa\OneDrive - techigai.io\Desktop\Dotnet\Assign\bin\Debug\net6.0\Assign.deps.json
+C:\Users\mounika.ruppa\OneDrive - techigai.io\Desktop\Dotnet\Assign\bin\Debug\net6.0\Assign.runtimeconfig.json
+C:\Users\mounika.ruppa\OneDrive - techigai.io\Desktop\Dotnet\Assign\bin\Debug\net6.0\Assign.dll
+C:\Users\mounika.ruppa\OneDrive - techigai.io\Desktop\Dotnet\Assign\bin\Debug\net6.0\Assign.pdb
+C:\Users\mounika.ruppa\OneDrive - techigai.io\Desktop\Dotnet\Assign\obj\Debug\net6.0\Assign.csproj.AssemblyReference.cache
+C:\Users\mounika.ruppa\OneDrive - techigai.io\Desktop\Dotnet\Assign\obj\Debug\net6.0\Assign.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mounika.ruppa\OneDrive - techigai.io\Desktop\Dotnet\Assign\obj\Debug\net6.0\Assign.AssemblyInfoInputs.cache
+C:\Users\mounika.ruppa\OneDrive - techigai.io\Desktop\Dotnet\Assign\obj\Debug\net6.0\Assign.AssemblyInfo.cs
+C:\Users\mounika.ruppa\OneDrive - techigai.io\Desktop\Dotnet\Assign\obj\Debug\net6.0\Assign.csproj.CoreCompileInputs.cache
+C:\Users\mounika.ruppa\OneDrive - techigai.io\Desktop\Dotnet\Assign\obj\Debug\net6.0\Assign.dll
+C:\Users\mounika.ruppa\OneDrive - techigai.io\Desktop\Dotnet\Assign\obj\Debug\net6.0\refint\Assign.dll
+C:\Users\mounika.ruppa\OneDrive - techigai.io\Desktop\Dotnet\Assign\obj\Debug\net6.0\Assign.pdb
+C:\Users\mounika.ruppa\OneDrive - techigai.io\Desktop\Dotnet\Assign\obj\Debug\net6.0\Assign.genruntimeconfig.cache
+C:\Users\mounika.ruppa\OneDrive - techigai.io\Desktop\Dotnet\Assign\obj\Debug\net6.0\ref\Assign.dll

@@ -1,0 +1,15 @@
+C:\Users\mounika.ruppa\OneDrive - techigai.io\Desktop\Dotnet\Assign2\bin\Debug\net6.0\Assign2.exe
+C:\Users\mounika.ruppa\OneDrive - techigai.io\Desktop\Dotnet\Assign2\bin\Debug\net6.0\Assign2.deps.json
+C:\Users\mounika.ruppa\OneDrive - techigai.io\Desktop\Dotnet\Assign2\bin\Debug\net6.0\Assign2.runtimeconfig.json
+C:\Users\mounika.ruppa\OneDrive - techigai.io\Desktop\Dotnet\Assign2\bin\Debug\net6.0\Assign2.dll
+C:\Users\mounika.ruppa\OneDrive - techigai.io\Desktop\Dotnet\Assign2\bin\Debug\net6.0\Assign2.pdb
+C:\Users\mounika.ruppa\OneDrive - techigai.io\Desktop\Dotnet\Assign2\obj\Debug\net6.0\Assign2.csproj.AssemblyReference.cache
+C:\Users\mounika.ruppa\OneDrive - techigai.io\Desktop\Dotnet\Assign2\obj\Debug\net6.0\Assign2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mounika.ruppa\OneDrive - techigai.io\Desktop\Dotnet\Assign2\obj\Debug\net6.0\Assign2.AssemblyInfoInputs.cache
+C:\Users\mounika.ruppa\OneDrive - techigai.io\Desktop\Dotnet\Assign2\obj\Debug\net6.0\Assign2.AssemblyInfo.cs
+C:\Users\mounika.ruppa\OneDrive - techigai.io\Desktop\Dotnet\Assign2\obj\Debug\net6.0\Assign2.csproj.CoreCompileInputs.cache
+C:\Users\mounika.ruppa\OneDrive - techigai.io\Desktop\Dotnet\Assign2\obj\Debug\net6.0\Assign2.dll
+C:\Users\mounika.ruppa\OneDrive - techigai.io\Desktop\Dotnet\Assign2\obj\Debug\net6.0\refint\Assign2.dll
+C:\Users\mounika.ruppa\OneDrive - techigai.io\Desktop\Dotnet\Assign2\obj\Debug\net6.0\Assign2.pdb
+C:\Users\mounika.ruppa\OneDrive - techigai.io\Desktop\Dotnet\Assign2\obj\Debug\net6.0\Assign2.genruntimeconfig.cache
+C:\Users\mounika.ruppa\OneDrive - techigai.io\Desktop\Dotnet\Assign2\obj\Debug\net6.0\ref\Assign2.dll

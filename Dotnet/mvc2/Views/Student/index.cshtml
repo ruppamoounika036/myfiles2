@@ -1,0 +1,9 @@
+<h2>@ViewData["Header"]</h2>
+<ul>
+@foreach (var std in ViewData["students"] as IList<Student>)
+{
+    <li>
+        @std.StudentName
+    </li>
+}
+</ul>

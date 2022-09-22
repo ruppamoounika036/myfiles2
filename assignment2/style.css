@@ -1,0 +1,133 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    min-height: 100vh;
+    display: flex;
+}
+
+.container1 {
+    max-width: 50vw;
+    width: 30%;
+    margin: auto;
+}
+
+.container1a {
+    white-space: nowrap;
+    color: rgb(100, 101, 177);
+    font-family: "Heebo", sans-serif;
+    font-size: 30px;
+}
+
+.container1b,
+.container1c {
+    display: flex;
+    border-bottom: 1px solid #00000048;
+    color: rgb(100, 101, 177);
+    padding-top: 5%;
+}
+
+.container1 i {
+    margin: auto;
+    color: rgb(100, 101, 177);
+}
+
+.box {
+    outline: none;
+    border: none;
+    padding: 10px;
+    width: 100%;
+}
+
+a {
+    font-family: "Open Sans", sans-serif;
+    font-size: small;
+    color: rgb(100, 101, 177);
+    text-decoration: none;
+}
+
+button {
+    padding: 12px 20px;
+    width: 50%;
+    color: white;
+    text-align: center;
+    cursor: pointer;
+    border-radius: 18px;
+    background-color: rgb(79, 211, 160);
+    border: transparent;
+    box-shadow: 2px 2px 20px rgb(79, 211, 160);
+}
+
+.container1d {
+    display: flex;
+    white-space: nowrap;
+    justify-content: space-between;
+    align-items: baseline;
+    margin-top: 4%;
+}
+
+.container2 {
+    display: flex;
+    width: 50vw;
+    background-image: linear-gradient(#6d418b, #574b9c);
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.container2a {
+    display: flex;
+    color: white;
+    font-family: monospace;
+    font-size: x-large;
+    min-height: 25%;
+    align-items: flex-end;
+}
+
+.container2b {
+    padding-top: 10%;
+    align-items: center;
+}
+
+.container2b1 {
+    display: flex;
+    color: white;
+    font-family: "Open Sans", sans-serif;
+    font-size: 30px;
+    padding: 5%;
+    padding-bottom: 7%;
+}
+
+.container2d {
+    min-height: 25%;
+    display: flex;
+    color: rgb(219, 214, 245);
+    font-family: sans-serif;
+    font-size: small;
+    text-align: center;
+    align-items: flex-start;
+    flex-grow: 1;
+}
+
+footer {
+    display: flex;
+    color: rgba(192, 189, 189, 0.699);
+    font-size: 10px;
+    flex-basis: 50px;
+    align-items: center;
+    justify-content: center;
+    white-space: nowrap;
+    font-family: Consolas;
+}
+
+::placeholder {
+    color: rgb(100, 101, 177);
+}
+
+.c1 {
+    border: 1px solid;
+    border-color: transparent darkgray transparent transparent;
+    padding-right: 15%;
+}

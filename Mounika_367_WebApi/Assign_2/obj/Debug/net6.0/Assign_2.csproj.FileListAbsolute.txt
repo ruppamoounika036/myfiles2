@@ -1,0 +1,146 @@
+C:\Users\mounika.ruppa\OneDrive - techigai.io\Desktop\Final_web_api\Assign_2\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\mounika.ruppa\OneDrive - techigai.io\Desktop\Final_web_api\Assign_2\bin\Debug\net6.0\appsettings.json
+C:\Users\mounika.ruppa\OneDrive - techigai.io\Desktop\Final_web_api\Assign_2\bin\Debug\net6.0\Assign_2.exe
+C:\Users\mounika.ruppa\OneDrive - techigai.io\Desktop\Final_web_api\Assign_2\bin\Debug\net6.0\Assign_2.deps.json
+C:\Users\mounika.ruppa\OneDrive - techigai.io\Desktop\Final_web_api\Assign_2\bin\Debug\net6.0\Assign_2.runtimeconfig.json
+C:\Users\mounika.ruppa\OneDrive - techigai.io\Desktop\Final_web_api\Assign_2\bin\Debug\net6.0\Assign_2.dll
+C:\Users\mounika.ruppa\OneDrive - techigai.io\Desktop\Final_web_api\Assign_2\bin\Debug\net6.0\Assign_2.pdb
+C:\Users\mounika.ruppa\OneDrive - techigai.io\Desktop\Final_web_api\Assign_2\bin\Debug\net6.0\Entidades.dll
+C:\Users\mounika.ruppa\OneDrive - techigai.io\Desktop\Final_web_api\Assign_2\bin\Debug\net6.0\EntityFramework.SqlServer.dll
+C:\Users\mounika.ruppa\OneDrive - techigai.io\Desktop\Final_web_api\Assign_2\bin\Debug\net6.0\EntityFramework.dll
+C:\Users\mounika.ruppa\OneDrive - techigai.io\Desktop\Final_web_api\Assign_2\bin\Debug\net6.0\Humanizer.dll
+C:\Users\mounika.ruppa\OneDrive - techigai.io\Desktop\Final_web_api\Assign_2\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\mounika.ruppa\OneDrive - techigai.io\Desktop\Final_web_api\Assign_2\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\mounika.ruppa\OneDrive - techigai.io\Desktop\Final_web_api\Assign_2\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\mounika.ruppa\OneDrive - techigai.io\Desktop\Final_web_api\Assign_2\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\mounika.ruppa\OneDrive - techigai.io\Desktop\Final_web_api\Assign_2\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\mounika.ruppa\OneDrive - techigai.io\Desktop\Final_web_api\Assign_2\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\mounika.ruppa\OneDrive - techigai.io\Desktop\Final_web_api\Assign_2\bin\Debug\net6.0\dotnet-ef.dll
+C:\Users\mounika.ruppa\OneDrive - techigai.io\Desktop\Final_web_api\Assign_2\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\mounika.ruppa\OneDrive - techigai.io\Desktop\Final_web_api\Assign_2\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\mounika.ruppa\OneDrive - techigai.io\Desktop\Final_web_api\Assign_2\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\mounika.ruppa\OneDrive - techigai.io\Desktop\Final_web_api\Assign_2\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\mounika.ruppa\OneDrive - techigai.io\Desktop\Final_web_api\Assign_2\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\mounika.ruppa\OneDrive - techigai.io\Desktop\Final_web_api\Assign_2\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\mounika.ruppa\OneDrive - techigai.io\Desktop\Final_web_api\Assign_2\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\mounika.ruppa\OneDrive - techigai.io\Desktop\Final_web_api\Assign_2\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\mounika.ruppa\OneDrive - techigai.io\Desktop\Final_web_api\Assign_2\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\mounika.ruppa\OneDrive - techigai.io\Desktop\Final_web_api\Assign_2\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\mounika.ruppa\OneDrive - techigai.io\Desktop\Final_web_api\Assign_2\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\mounika.ruppa\OneDrive - techigai.io\Desktop\Final_web_api\Assign_2\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\mounika.ruppa\OneDrive - techigai.io\Desktop\Final_web_api\Assign_2\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\mounika.ruppa\OneDrive - techigai.io\Desktop\Final_web_api\Assign_2\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\mounika.ruppa\OneDrive - techigai.io\Desktop\Final_web_api\Assign_2\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\mounika.ruppa\OneDrive - techigai.io\Desktop\Final_web_api\Assign_2\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\mounika.ruppa\OneDrive - techigai.io\Desktop\Final_web_api\Assign_2\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\mounika.ruppa\OneDrive - techigai.io\Desktop\Final_web_api\Assign_2\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\mounika.ruppa\OneDrive - techigai.io\Desktop\Final_web_api\Assign_2\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\mounika.ruppa\OneDrive - techigai.io\Desktop\Final_web_api\Assign_2\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\mounika.ruppa\OneDrive - techigai.io\Desktop\Final_web_api\Assign_2\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\mounika.ruppa\OneDrive - techigai.io\Desktop\Final_web_api\Assign_2\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\mounika.ruppa\OneDrive - techigai.io\Desktop\Final_web_api\Assign_2\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\mounika.ruppa\OneDrive - techigai.io\Desktop\Final_web_api\Assign_2\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\mounika.ruppa\OneDrive - techigai.io\Desktop\Final_web_api\Assign_2\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\mounika.ruppa\OneDrive - techigai.io\Desktop\Final_web_api\Assign_2\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\mounika.ruppa\OneDrive - techigai.io\Desktop\Final_web_api\Assign_2\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\mounika.ruppa\OneDrive - techigai.io\Desktop\Final_web_api\Assign_2\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\mounika.ruppa\OneDrive - techigai.io\Desktop\Final_web_api\Assign_2\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\mounika.ruppa\OneDrive - techigai.io\Desktop\Final_web_api\Assign_2\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\mounika.ruppa\OneDrive - techigai.io\Desktop\Final_web_api\Assign_2\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\mounika.ruppa\OneDrive - techigai.io\Desktop\Final_web_api\Assign_2\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\mounika.ruppa\OneDrive - techigai.io\Desktop\Final_web_api\Assign_2\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\mounika.ruppa\OneDrive - techigai.io\Desktop\Final_web_api\Assign_2\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\mounika.ruppa\OneDrive - techigai.io\Desktop\Final_web_api\Assign_2\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\mounika.ruppa\OneDrive - techigai.io\Desktop\Final_web_api\Assign_2\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\mounika.ruppa\OneDrive - techigai.io\Desktop\Final_web_api\Assign_2\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\mounika.ruppa\OneDrive - techigai.io\Desktop\Final_web_api\Assign_2\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\mounika.ruppa\OneDrive - techigai.io\Desktop\Final_web_api\Assign_2\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\mounika.ruppa\OneDrive - techigai.io\Desktop\Final_web_api\Assign_2\obj\Debug\net6.0\Assign_2.csproj.AssemblyReference.cache
+C:\Users\mounika.ruppa\OneDrive - techigai.io\Desktop\Final_web_api\Assign_2\obj\Debug\net6.0\Assign_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mounika.ruppa\OneDrive - techigai.io\Desktop\Final_web_api\Assign_2\obj\Debug\net6.0\Assign_2.AssemblyInfoInputs.cache
+C:\Users\mounika.ruppa\OneDrive - techigai.io\Desktop\Final_web_api\Assign_2\obj\Debug\net6.0\Assign_2.AssemblyInfo.cs
+C:\Users\mounika.ruppa\OneDrive - techigai.io\Desktop\Final_web_api\Assign_2\obj\Debug\net6.0\Assign_2.csproj.CoreCompileInputs.cache
+C:\Users\mounika.ruppa\OneDrive - techigai.io\Desktop\Final_web_api\Assign_2\obj\Debug\net6.0\Assign_2.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\mounika.ruppa\OneDrive - techigai.io\Desktop\Final_web_api\Assign_2\obj\Debug\net6.0\Assign_2.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\mounika.ruppa\OneDrive - techigai.io\Desktop\Final_web_api\Assign_2\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\mounika.ruppa\OneDrive - techigai.io\Desktop\Final_web_api\Assign_2\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\mounika.ruppa\OneDrive - techigai.io\Desktop\Final_web_api\Assign_2\obj\Debug\net6.0\scopedcss\bundle\Assign_2.styles.css
+C:\Users\mounika.ruppa\OneDrive - techigai.io\Desktop\Final_web_api\Assign_2\obj\Debug\net6.0\Assign_2.csproj.CopyComplete
+C:\Users\mounika.ruppa\OneDrive - techigai.io\Desktop\Final_web_api\Assign_2\obj\Debug\net6.0\Assign_2.dll
+C:\Users\mounika.ruppa\OneDrive - techigai.io\Desktop\Final_web_api\Assign_2\obj\Debug\net6.0\refint\Assign_2.dll
+C:\Users\mounika.ruppa\OneDrive - techigai.io\Desktop\Final_web_api\Assign_2\obj\Debug\net6.0\Assign_2.pdb
+C:\Users\mounika.ruppa\OneDrive - techigai.io\Desktop\Final_web_api\Assign_2\obj\Debug\net6.0\Assign_2.genruntimeconfig.cache
+C:\Users\mounika.ruppa\OneDrive - techigai.io\Desktop\Final_web_api\Assign_2\obj\Debug\net6.0\ref\Assign_2.dll
+C:\Users\mounika.ruppa\OneDrive - techigai.io\Desktop\New folder\Assign_2\obj\Debug\net6.0\Assign_2.csproj.AssemblyReference.cache
+C:\Users\mounika.ruppa\OneDrive - techigai.io\Desktop\New folder\Assign_2\obj\Debug\net6.0\Assign_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mounika.ruppa\OneDrive - techigai.io\Desktop\New folder\Assign_2\obj\Debug\net6.0\Assign_2.AssemblyInfoInputs.cache
+C:\Users\mounika.ruppa\OneDrive - techigai.io\Desktop\New folder\Assign_2\obj\Debug\net6.0\Assign_2.AssemblyInfo.cs
+C:\Users\mounika.ruppa\OneDrive - techigai.io\Desktop\New folder\Assign_2\obj\Debug\net6.0\Assign_2.csproj.CoreCompileInputs.cache
+C:\Users\mounika.ruppa\OneDrive - techigai.io\Desktop\New folder\Assign_2\obj\Debug\net6.0\Assign_2.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\mounika.ruppa\OneDrive - techigai.io\Desktop\New folder\Assign_2\obj\Debug\net6.0\Assign_2.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\mounika.ruppa\OneDrive - techigai.io\Desktop\New folder\Assign_2\obj\Debug\net6.0\Assign_2.dll
+C:\Users\mounika.ruppa\OneDrive - techigai.io\Desktop\New folder\Assign_2\obj\Debug\net6.0\refint\Assign_2.dll
+C:\Users\mounika.ruppa\OneDrive - techigai.io\Desktop\New folder\Assign_2\obj\Debug\net6.0\Assign_2.pdb
+C:\Users\mounika.ruppa\OneDrive - techigai.io\Desktop\New folder\Assign_2\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\mounika.ruppa\OneDrive - techigai.io\Desktop\New folder\Assign_2\bin\Debug\net6.0\appsettings.json
+C:\Users\mounika.ruppa\OneDrive - techigai.io\Desktop\New folder\Assign_2\bin\Debug\net6.0\Assign_2.exe
+C:\Users\mounika.ruppa\OneDrive - techigai.io\Desktop\New folder\Assign_2\bin\Debug\net6.0\Assign_2.deps.json
+C:\Users\mounika.ruppa\OneDrive - techigai.io\Desktop\New folder\Assign_2\bin\Debug\net6.0\Assign_2.runtimeconfig.json
+C:\Users\mounika.ruppa\OneDrive - techigai.io\Desktop\New folder\Assign_2\bin\Debug\net6.0\Assign_2.dll
+C:\Users\mounika.ruppa\OneDrive - techigai.io\Desktop\New folder\Assign_2\bin\Debug\net6.0\Assign_2.pdb
+C:\Users\mounika.ruppa\OneDrive - techigai.io\Desktop\New folder\Assign_2\bin\Debug\net6.0\Entidades.dll
+C:\Users\mounika.ruppa\OneDrive - techigai.io\Desktop\New folder\Assign_2\bin\Debug\net6.0\EntityFramework.SqlServer.dll
+C:\Users\mounika.ruppa\OneDrive - techigai.io\Desktop\New folder\Assign_2\bin\Debug\net6.0\EntityFramework.dll
+C:\Users\mounika.ruppa\OneDrive - techigai.io\Desktop\New folder\Assign_2\bin\Debug\net6.0\Humanizer.dll
+C:\Users\mounika.ruppa\OneDrive - techigai.io\Desktop\New folder\Assign_2\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\mounika.ruppa\OneDrive - techigai.io\Desktop\New folder\Assign_2\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\mounika.ruppa\OneDrive - techigai.io\Desktop\New folder\Assign_2\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\mounika.ruppa\OneDrive - techigai.io\Desktop\New folder\Assign_2\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\mounika.ruppa\OneDrive - techigai.io\Desktop\New folder\Assign_2\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\mounika.ruppa\OneDrive - techigai.io\Desktop\New folder\Assign_2\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\mounika.ruppa\OneDrive - techigai.io\Desktop\New folder\Assign_2\bin\Debug\net6.0\dotnet-ef.dll
+C:\Users\mounika.ruppa\OneDrive - techigai.io\Desktop\New folder\Assign_2\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\mounika.ruppa\OneDrive - techigai.io\Desktop\New folder\Assign_2\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\mounika.ruppa\OneDrive - techigai.io\Desktop\New folder\Assign_2\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\mounika.ruppa\OneDrive - techigai.io\Desktop\New folder\Assign_2\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\mounika.ruppa\OneDrive - techigai.io\Desktop\New folder\Assign_2\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\mounika.ruppa\OneDrive - techigai.io\Desktop\New folder\Assign_2\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\mounika.ruppa\OneDrive - techigai.io\Desktop\New folder\Assign_2\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\mounika.ruppa\OneDrive - techigai.io\Desktop\New folder\Assign_2\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\mounika.ruppa\OneDrive - techigai.io\Desktop\New folder\Assign_2\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\mounika.ruppa\OneDrive - techigai.io\Desktop\New folder\Assign_2\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\mounika.ruppa\OneDrive - techigai.io\Desktop\New folder\Assign_2\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\mounika.ruppa\OneDrive - techigai.io\Desktop\New folder\Assign_2\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\mounika.ruppa\OneDrive - techigai.io\Desktop\New folder\Assign_2\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\mounika.ruppa\OneDrive - techigai.io\Desktop\New folder\Assign_2\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\mounika.ruppa\OneDrive - techigai.io\Desktop\New folder\Assign_2\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\mounika.ruppa\OneDrive - techigai.io\Desktop\New folder\Assign_2\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\mounika.ruppa\OneDrive - techigai.io\Desktop\New folder\Assign_2\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\mounika.ruppa\OneDrive - techigai.io\Desktop\New folder\Assign_2\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\mounika.ruppa\OneDrive - techigai.io\Desktop\New folder\Assign_2\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\mounika.ruppa\OneDrive - techigai.io\Desktop\New folder\Assign_2\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\mounika.ruppa\OneDrive - techigai.io\Desktop\New folder\Assign_2\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\mounika.ruppa\OneDrive - techigai.io\Desktop\New folder\Assign_2\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\mounika.ruppa\OneDrive - techigai.io\Desktop\New folder\Assign_2\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\mounika.ruppa\OneDrive - techigai.io\Desktop\New folder\Assign_2\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\mounika.ruppa\OneDrive - techigai.io\Desktop\New folder\Assign_2\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\mounika.ruppa\OneDrive - techigai.io\Desktop\New folder\Assign_2\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\mounika.ruppa\OneDrive - techigai.io\Desktop\New folder\Assign_2\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\mounika.ruppa\OneDrive - techigai.io\Desktop\New folder\Assign_2\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\mounika.ruppa\OneDrive - techigai.io\Desktop\New folder\Assign_2\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\mounika.ruppa\OneDrive - techigai.io\Desktop\New folder\Assign_2\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\mounika.ruppa\OneDrive - techigai.io\Desktop\New folder\Assign_2\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\mounika.ruppa\OneDrive - techigai.io\Desktop\New folder\Assign_2\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\mounika.ruppa\OneDrive - techigai.io\Desktop\New folder\Assign_2\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\mounika.ruppa\OneDrive - techigai.io\Desktop\New folder\Assign_2\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\mounika.ruppa\OneDrive - techigai.io\Desktop\New folder\Assign_2\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\mounika.ruppa\OneDrive - techigai.io\Desktop\New folder\Assign_2\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\mounika.ruppa\OneDrive - techigai.io\Desktop\New folder\Assign_2\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\mounika.ruppa\OneDrive - techigai.io\Desktop\New folder\Assign_2\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\mounika.ruppa\OneDrive - techigai.io\Desktop\New folder\Assign_2\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\mounika.ruppa\OneDrive - techigai.io\Desktop\New folder\Assign_2\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\mounika.ruppa\OneDrive - techigai.io\Desktop\New folder\Assign_2\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\mounika.ruppa\OneDrive - techigai.io\Desktop\New folder\Assign_2\obj\Debug\net6.0\scopedcss\bundle\Assign_2.styles.css
+C:\Users\mounika.ruppa\OneDrive - techigai.io\Desktop\New folder\Assign_2\obj\Debug\net6.0\Assign_2.csproj.CopyComplete
+C:\Users\mounika.ruppa\OneDrive - techigai.io\Desktop\New folder\Assign_2\obj\Debug\net6.0\Assign_2.genruntimeconfig.cache
+C:\Users\mounika.ruppa\OneDrive - techigai.io\Desktop\New folder\Assign_2\obj\Debug\net6.0\ref\Assign_2.dll
